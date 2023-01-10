@@ -4,8 +4,8 @@
 using namespace std;
 
 int main() {
-  ios::sync_with_stdio(false);
-  cin.tie(nullptr);
+  freopen("mixmilk.in","r",stdin);
+	freopen("mixmilk.out","w",stdout);
   vector<ll> A;
   vector<ll> C;
   ll c;
